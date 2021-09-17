@@ -68,7 +68,7 @@ while True:
          f'NUMBER OF WRONG GUESSES: {user.tries}\n')
     
     quit = input('--------WOULD YOU LIKE TO QUIT? [Y/N]-------- \n').upper()
-    if quit == 'Y': sys.exit() 
+    if quit == 'Y': sys.exit() # use exit() for interactive shells
     
     user.reset()
     
