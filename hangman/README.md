@@ -15,6 +15,11 @@ Run the `main.py` file to play the game!
 Please download the [DB Browser for SQLite](https://sqlitebrowser.org/dl/) or any other applications 
 compatible for use with `sqlite3`. 
 
+Please also create a [RapidApi](https://rapidapi.com/hub) account in order to use [WordsApi](https://www.wordsapi.com/). 
+Or use other word APIs (and change the corresponding code in the `funcs.py` file).
+
 ### Variations
 
 Creating a simple user interface with Python's [Turtle Graphics](https://docs.python.org/3/library/turtle.html).
+
+Control the target word by allowing users to choose the categories/difficulties of the words.
